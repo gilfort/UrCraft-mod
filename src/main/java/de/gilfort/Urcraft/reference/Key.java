@@ -1,5 +1,5 @@
 package de.gilfort.Urcraft.reference;
 
 public enum Key {
-	UNKNOWN;
+	UNKNOWN, EXPLOSION, EXPLOSION_BIG;
 }

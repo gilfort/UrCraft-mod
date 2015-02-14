@@ -1,1 +1,20 @@
+#Blocks
+
 tile.urcraft:testBlock.name=dies ist ein testblockname
+tile.urcraft:camo_mine.name=Camo Mine :3
+
+
+#Items
+
+
+
+
+
+#Creative Tabs
+itemGroup.urcraft=Urcraft Mod
+
+
+
+#Keybindings
+keys.Urcraft.category=Urcraft Keys
+keys.Urcraft.explode=Explode

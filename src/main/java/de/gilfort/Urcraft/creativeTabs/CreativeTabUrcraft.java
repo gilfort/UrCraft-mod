@@ -8,7 +8,7 @@ import de.gilfort.Urcraft.reference.Reference;
 public class CreativeTabUrcraft {
 
 	public static final CreativeTabs URCRAFT_TAB = new CreativeTabs(
-			Reference.MOD_ID.toLowerCase()) {
+			Reference.MOD_ID_LOWER) {
 		@Override
 		public Item getTabIconItem() {
 			return Items.bowl;
