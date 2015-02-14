@@ -1,5 +1,10 @@
 package de.gilfort.Urcraft.proxy;
 
-public class CommonProxy implements IProxy{
+public abstract class CommonProxy {
+
+	public void registerKeyBindings() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
